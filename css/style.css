@@ -1,0 +1,17 @@
+#navigation{
+    background-color: #02918b;
+}
+#navigation ul li a{
+    font-size:12px ;
+    font-weight: 800;
+    color: white;
+    text-transform: capitalize;
+    padding: 15px 25px;
+    margin: 10px 0px;
+    transition: .7s;
+    display: inline-block;
+    border-radius: 20px;
+}
+#navigation ul li:hover a{
+    background-color: black;
+}
